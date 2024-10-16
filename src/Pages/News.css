@@ -1,0 +1,13 @@
+
+.Newcard{
+    float: left;
+    margin:15px;
+    height: 120vh;
+
+}
+.cardImg{
+   width:100%;
+   height:30vh;
+   padding: 5px;
+
+}
